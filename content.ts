@@ -1,2 +1,2 @@
 console.log("mcdgn")
-console.log("boahq")
+console.log("glutn")
